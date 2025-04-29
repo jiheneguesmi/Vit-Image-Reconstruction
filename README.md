@@ -57,7 +57,9 @@ Install dependencies
 
 | Original Image | Reconstructed Image |
 |----------------|---------------------|
-| ![Original](images/original_example.png) | ![Reconstructed](images/reconstructed_example.png) |
+| ![image](https://github.com/user-attachments/assets/e3db9050-4c25-4f7f-8fcf-34d74b8499e5)
+ | ![image](https://github.com/user-attachments/assets/5b4f8d44-b94e-415e-ba30-33cf69e679e4)
+ |
 
 > *Note: Replace the image paths (`images/original_example.png` and `images/reconstructed_example.png`) with your actual file paths or GitHub-hosted images.*
 
